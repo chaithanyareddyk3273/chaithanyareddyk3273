@@ -1,4 +1,4 @@
-## Hi, I'm Chaithanya 👋
+## Hi, I'm Chaithanya Reddy👋
 
 **Cloud DevOps Engineer** building and automating cloud platforms on **AWS** and **Azure**, from infrastructure-as-code to Kubernetes to ML inference. I've worked in banking (Wells Fargo), healthcare (Centene) and IT services (TCS).
 
