@@ -29,4 +29,4 @@
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/chaithanya-reddy-devops/)
+[LinkedIn](https://www.linkedin.com/in/chaithanya-reddy-26355428c/)
